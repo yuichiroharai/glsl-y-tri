@@ -1,6 +1,6 @@
 {
   "name": "glsl-y-tri",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "map from [0-1] to [0-1-0] for glslify",
   "main": "index.glsl",
   "scripts": {},
