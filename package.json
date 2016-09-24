@@ -1,0 +1,28 @@
+{
+  "name": "glsl-y-tri",
+  "version": "0.0.0",
+  "description": "map from [0-1] to [0-1-0] for glslify",
+  "main": "index.glsl",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://yuichiroharai@github.com/yuichiroharai/glsl-y-tri.git"
+  },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "shader",
+    "webgl",
+    "math",
+    "map"
+  ],
+  "author": {
+    "name": "Yuichiroh Arai",
+    "url": "http://www.yuichiroharai.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuichiroharai/glsl-y-tri/issues"
+  },
+  "homepage": "https://github.com/yuichiroharai/glsl-y-tri#readme"
+}
